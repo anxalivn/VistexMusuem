@@ -252,7 +252,9 @@ nav ul li {
   -webkit-transform: translateY(-100%);
   transform: translateY(-100%);
 }
-
+a{
+ color: #fff;
+}
 nav li a {
   position: relative;
   top: 46%;
